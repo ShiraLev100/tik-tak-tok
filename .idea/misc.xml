@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/CS/Downloads/Tik Tak Tok21022022-20220301T120414Z-001/Tik Tak Tok21022022/TikTakTok/app/src/main/res/layout/activity_cheet_sheet.xml" value="0.16590678824721378" />
+        <entry key="..\:/Users/CS/Downloads/Tik Tak Tok21022022-20220301T120414Z-001/Tik Tak Tok21022022/TikTakTok/app/src/main/res/layout/activity_instraciton_acivity.xml" value="0.22282608695652173" />
+        <entry key="..\:/Users/CS/Downloads/Tik Tak Tok21022022-20220301T120414Z-001/Tik Tak Tok21022022/TikTakTok/app/src/main/res/layout/loggin_sginup.xml" value="0.22282608695652173" />
+        <entry key="..\:/Users/CS/Downloads/Tik Tak Tok21022022-20220301T120414Z-001/Tik Tak Tok21022022/TikTakTok/app/src/main/res/menu/example_menue.xml" value="0.2712962962962963" />
+        <entry key="..\:/Users/CS/Downloads/TikTakTok03012022/TikTakTok/app/src/main/res/layout/activity_room_manager.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/CS/Downloads/TikTakTok14032022/TikTakTok/app/src/main/res/layout/activity_cheet_sheet.xml" value="0.16590678824721378" />
+        <entry key="..\:/Users/CS/Downloads/TikTakTok14032022/TikTakTok/app/src/main/res/layout/activity_scores_history.xml" value="0.16590678824721378" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context=".RoomManagerActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:background="@drawable/background_room_maneger2"
+        android:foregroundGravity="center_vertical|center|center_horizontal">
+
+        <LinearLayout
+            android:layout_width="316dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:foregroundGravity="center_vertical|center|center_horizontal"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="click your choise"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="normal|bold" />
+
+            <Button
+                android:id="@+id/btn_joinRoom"
+                android:layout_width="287dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="clip_horizontal|center"
+                android:text="join room"
+                android:textColor="#181918"
+                app:backgroundTint="#FFFFFF"
+                app:cornerRadius="@android:dimen/notification_large_icon_width"
+                app:shapeAppearance="@style/CardView" />
+
+            <Button
+                android:id="@+id/btn_createRoom"
+                android:layout_width="290dp"
+                android:layout_height="wrap_content"
+                android:hapticFeedbackEnabled="true"
+                android:text="creat room"
+                android:textColor="#181918"
+                app:backgroundTint="#FFFFFF"
+                app:cornerRadius="@android:dimen/notification_large_icon_width"
+                app:shapeAppearance="@style/CardView" />
+        </LinearLayout>
+    </FrameLayout>
+
+</RelativeLayout>
